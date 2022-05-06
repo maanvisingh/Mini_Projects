@@ -1,5 +1,5 @@
 # Mini Projects
-This repository is used for documenting the codes for some of the Mini Projects that I have done. Most of which are just low budget prototypes.
+This repository is used for documenting the codes for some of the Mini Projects that I have done. Most of which are just prototypes.
 1. [Virtual Keyboard using OpenCV](https://github.com/maanvisingh/Mini_Projects/edit/main/README.md#virtual-keyboard-using-opencv)
 2. [LCD Game](https://github.com/maanvisingh/Mini_Projects/edit/main/README.md#lcd-game)
 3. [Pick and Place Bot](https://github.com/maanvisingh/Mini_Projects/edit/main/README.md#pick-and-place-bot)
