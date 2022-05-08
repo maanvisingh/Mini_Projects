@@ -1,10 +1,10 @@
 # Mini Projects
 This repository is used for documenting the codes for some of the Mini Projects that I have done. Most of which are just prototypes.
-1. [LCD Game](https://github.com/maanvisingh/Mini_Projects/edit/main/README.md#lcd-game)
-2. [Pick and Place Bot](https://github.com/maanvisingh/Mini_Projects/edit/main/README.md#pick-and-place-bot)
-3. [3 DOF Arm](https://github.com/maanvisingh/Mini_Projects/edit/main/README.md#3-dof-arm)
-4. [Stewart Platform](https://github.com/maanvisingh/Mini_Projects/edit/main/README.md#stewart-platform)
-5. [String Art](https://github.com/maanvisingh/Mini_Projects/edit/main/README.md#string-art)
+1. [LCD Game](https://github.com/maanvisingh/Mini_Projects/blob/main/README.md#lcd-game)
+2. [Pick and Place Bot](https://github.com/maanvisingh/Mini_Projects/blob/main/README.md#pick-and-place-bot)
+3. [3 DOF Arm](https://github.com/maanvisingh/Mini_Projects/blob/main/README.md#3-dof-arm)
+4. [Stewart Platform](https://github.com/maanvisingh/Mini_Projects/blob/main/README.md#stewart-platform)
+5. [String Art](https://github.com/maanvisingh/Mini_Projects/blob/main/README.md#string-art)
 
 ## LCD Game 
 This is an endless runner video game simulated on an LCD. The character in the game has to avoid all the obstacles coming it's way to stay alive and the score is based on the time for which the character is alive. 
