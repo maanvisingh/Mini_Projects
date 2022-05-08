@@ -8,7 +8,7 @@ This repository is used for documenting the codes for some of the Mini Projects 
 6. [Stewart Platform](https://github.com/maanvisingh/Mini_Projects/edit/main/README.md#stewart-platform)
 
 ## MAHE Innovation Festival 2021
-Presented the idea and prototype for a Touchless Public Device based on a Virtual Keyboard (using OpenCV) that can be interfaced with ATMs, Airport Check-in Machines, etc. to interact with the device without the need for touch screens.
+Presented the idea and prototype for a Touchless Public Device based on a Virtual Keyboard (using OpenCV) that can be interfaced with ATMs, Airport Check-in Machines, etc. to interact with the devices without the need for touch screen interfaces.
 
 ## Smart India Hackathon 2022
 An AI and IoT based interactive robot for elderly care and companionship.
