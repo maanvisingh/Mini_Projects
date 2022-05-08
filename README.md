@@ -1,17 +1,9 @@
 # Mini Projects
 This repository is used for documenting the codes for some of the Mini Projects that I have done. Most of which are just prototypes.
-1. [MAHE Innovation Festival 2021](https://github.com/maanvisingh/Mini_Projects/edit/main/README.md#mahe-innovation-festival-2021)
-2. [Smart India Hackathon 2022](https://github.com/maanvisingh/Mini_Projects/edit/main/README.md#smart-india-hackathon-2022)
-3. [LCD Game](https://github.com/maanvisingh/Mini_Projects/edit/main/README.md#lcd-game)
-4. [Pick and Place Bot](https://github.com/maanvisingh/Mini_Projects/edit/main/README.md#pick-and-place-bot)
-5. [3 DOF Arm](https://github.com/maanvisingh/Mini_Projects/edit/main/README.md#3-dof-arm)
-6. [Stewart Platform](https://github.com/maanvisingh/Mini_Projects/edit/main/README.md#stewart-platform)
-
-## MAHE Innovation Festival 2021
-Presented the idea and prototype for a Touchless Public Device based on a Virtual Keyboard (using OpenCV) that can be interfaced with ATMs, Airport Check-in Machines, etc. to interact with the devices without the need for touch screen interfaces.
-
-## Smart India Hackathon 2022
-An AI and IoT based interactive robot for elderly care and companionship.
+1. [LCD Game](https://github.com/maanvisingh/Mini_Projects/edit/main/README.md#lcd-game)
+2. [Pick and Place Bot](https://github.com/maanvisingh/Mini_Projects/edit/main/README.md#pick-and-place-bot)
+3. [3 DOF Arm](https://github.com/maanvisingh/Mini_Projects/edit/main/README.md#3-dof-arm)
+4. [Stewart Platform](https://github.com/maanvisingh/Mini_Projects/edit/main/README.md#stewart-platform)
 
 ## LCD Game 
 This is an endless runner video game simulated on an LCD. The character in the game has to avoid all the obstacles coming it's way to stay alive and the score is based on the time for which the character is alive. 
